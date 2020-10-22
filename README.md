@@ -1,4 +1,4 @@
-# Deep-Learning-with-PyTorch
+# My Deep Learning Journey
 
 Here is my first Repo of Deep Learning(My favorite subject in DS/ML).
 
